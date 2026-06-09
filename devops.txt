@@ -1,1 +1,2 @@
-my devops journey start here.
+my devops journey start here. 
+I am learning git step by step.
